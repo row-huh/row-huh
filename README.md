@@ -7,12 +7,12 @@
 <p align="left"> <a href="https://twitter.com/rokage_125" target="blank"><img src="https://img.shields.io/twitter/follow/rokage_125?logo=twitter&style=for-the-badge" alt="rokage_125" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 </a>
 
 <!-- - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> -->
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for collaboration on projects.
 
 <!-- - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a -->
  
