@@ -16,9 +16,9 @@
 
 <!-- - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a -->
  
-- 🌱 I’m currently learning Object oriented programming and front-end development
+- 🌱 I’m currently learning front-end development using python and javascript
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Any piece of tech - I'd get excited really easily**
 
 - 📫 How to reach me **roha.pathan@gmail.com**
 
