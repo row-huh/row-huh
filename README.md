@@ -32,10 +32,10 @@
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/roha-pathan-687960272">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/row-huh">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+			<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/rokage_125">
-	<img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"></a> 
-	 
-      </div>
+			<img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"></a> 
+	
+ </div>
 
 </p>
