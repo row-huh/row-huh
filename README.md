@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Any piece of tech - I'd get excited really easily**
 
-- 📫 How to reach me **roha.pathan@gmail.com**
+- 📫 How to reach me **roha.pathan125@gmail.com**
 
 <!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/> -->
