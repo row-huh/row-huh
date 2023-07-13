@@ -16,7 +16,7 @@
  
 - 🌱 I’m currently learning front-end development using python and javascript
 
-- 💬 Ask me about **Any piece of tech - I'd get excited really easily**
+- 💬 Ask me about **Python and AI**
 
 - 📫 How to reach me **roha.pathan125@gmail.com**
 
