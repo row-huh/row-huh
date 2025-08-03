@@ -14,7 +14,7 @@
 
 <!-- - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a -->
  
-- 🌱 I’m currently learning web development using python and javascript
+- 🌱 I’m currently learning about deep learning, automation agents and LLMs
 
 - 💬 Ask me about **Python and AI**
 
