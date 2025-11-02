@@ -1,5 +1,4 @@
 <h1 align="center">Hey there 👋, I'm Roha</h1>
-<h3 align="center">A passionate software developer currently still studying</h3>
 
 <div></div>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=row-huh&label=Profile%20views&color=0e75b6&style=flat" alt="row-huh" /> </p> -->
