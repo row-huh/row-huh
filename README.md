@@ -15,8 +15,8 @@
 
 Lately, i've been
 - Diving deep into **LLMs**, **automation agents**, **deep learning**, and **vision**  
-- Experimenting with random builds and vibe-coding side projects  
-- Occasionally writing blogs and keeping up with AI news (full-time at this point)
+- Experimenting with random builds and side projects  
+- Occasionally writing blogs and keeping up with AI news (which is pretty much a full-time job at this point)
 
 
 ##### Let's connect?
