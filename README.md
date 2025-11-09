@@ -10,7 +10,7 @@
 
 <p>
   I'm a software engineer who writes sometimes, watches too much anime, is into physics, philosophy, and books.  
-  I like solving problems, going for long walks, sleeping, talking about tech, and sleeping (yes)
+  I like solving problems, going for long walks, sleeping, talking about tech, distro hopping and sleeping (yes)
 </p>
 
 Lately, i've been
