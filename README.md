@@ -27,7 +27,7 @@ I happen to exist on these platforms as well so feel free to reach out or just s
 - https://github.com/row-huh
 
 
-Wanna know more? I spent $10 and up to 80 hours building this domain so check it out?
+Wanna know more? I spent $10 and up to 80 hours building this domain and it's still really ugly but check it out?
 [roha.dev](https://roha.dev/)
 
 
