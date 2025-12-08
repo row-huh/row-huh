@@ -21,7 +21,7 @@ Lately, i've been
 
 ##### Let's connect?
 I happen to exist on these platforms as well so feel free to reach out or just say hi
-- https://mailto:roha.pathan125@gmail.com
+- mailto:roha.pathan125@gmail.com
 - https://www.linkedin.com/in/roha-pathan-687960272
 - https://twitter.com/rokage_125
 - https://github.com/row-huh
