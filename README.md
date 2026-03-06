@@ -15,9 +15,9 @@
 
 Lately, i've been
 - Diving deep into **LLMs**, **automation agents**, **deep learning**, and **vision**  
-- Experimenting with random builds and side projects  
-- Occasionally writing blogs and keeping up with AI news (which is pretty much a full-time job at this point)
+- Experimenting with random builds and side projects
 - Reading Hitchhiker's guide to the galaxy
+- Occasionally writing blogs and keeping up with AI news (which is pretty much a full-time job at this point)
 
 
 ##### Let's connect?
