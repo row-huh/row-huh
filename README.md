@@ -9,7 +9,7 @@
 ### Heyo, I'm Roha
 
 <p>
-  I'm a software engineer who writes sometimes, watches too much anime, is into physics, philosophy, and books.  
+  I'm a software engineer who writes sometimes, watches too much anime, is into physics, science fiction, and books.  
   I like solving problems, going for long walks, sleeping, talking about tech, distro hopping and sleeping (yes)
 </p>
 
@@ -17,6 +17,7 @@ Lately, i've been
 - Diving deep into **LLMs**, **automation agents**, **deep learning**, and **vision**  
 - Experimenting with random builds and side projects  
 - Occasionally writing blogs and keeping up with AI news (which is pretty much a full-time job at this point)
+- Reading Hitchhiker's guide to the galaxy
 
 
 ##### Let's connect?
