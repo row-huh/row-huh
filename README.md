@@ -37,6 +37,7 @@ Joined Hackathons (5? i guess?)
 
 Projects:
 physiotherapy guidance system
+shakespearegpt (yes, i trained my own llm. It's not the next claude but it's someting. 124M GPT2 Model)
 
 Built passion projects:
 - gif-2-ascii is the only one that looks good for now lmao
@@ -48,7 +49,6 @@ Built passion projects:
 I also really enjoy linux, i did rice a lot but my only show-able achievement is
 omarchy-ghost-pastel
 Gotta love omarchy ngl
-
 
 I've also built a LOT more things - you may check them out in my github graveyard . They won't be perfect or not deployed but it's honest work i guess
 
