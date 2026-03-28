@@ -44,6 +44,14 @@ Built passion projects:
 - pomodoro
 - de
 
+
+I also really enjoy linux, i did rice a lot but my only show-able achievement is
+omarchy-ghost-pastel
+Gotta love omarchy ngl
+
+
+I've also built a LOT more things - you may check them out in my github graveyard . They won't be perfect or not deployed but it's honest work i guess
+
 Wanna know more? I spent $10 and up to 80 hours building this domain and it's still really ugly but check it out?
 [roha.dev](https://roha.dev/)
 
