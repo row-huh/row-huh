@@ -28,6 +28,22 @@ I happen to exist on these platforms as well so feel free to reach out or just s
 - https://github.com/row-huh
 
 
+## Things I've Done
+Finished 2 cs50 courses 
+- honestly a LOAD of fun
+- cs50p and cs50AI
+
+Joined Hackathons (5? i guess?)
+
+Projects:
+physiotherapy guidance system
+
+Built passion projects:
+- gif-2-ascii is the only one that looks good for now lmao
+- textbasedrpg (was organically coded btw. gpt3.5 existed but i was anti-ai at the time, i preferred to code on my own)
+- pomodoro
+- de
+
 Wanna know more? I spent $10 and up to 80 hours building this domain and it's still really ugly but check it out?
 [roha.dev](https://roha.dev/)
 
