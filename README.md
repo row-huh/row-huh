@@ -22,10 +22,12 @@ Lately, i've been
 
 ##### Let's connect?
 I happen to exist on these platforms as well so feel free to reach out or just say hi
-- mailto:roha.pathan125@gmail.com
-- https://www.linkedin.com/in/roha-pathan-687960272
-- https://twitter.com/rokage_125
-- https://github.com/row-huh
+- Email: roha.pathan125@gmail.com
+- Linkedin: https://www.linkedin.com/in/roha-pathan-687960272
+- X: https://x.com/rokage_125
+- Github: https://github.com/row-huh
+- Medium: https://medium.com/@roha-pathan125
+- Substack: https://rohapathan.substack.com
 
 
 Wanna know more? I spent $10 and up to 80 hours building this domain and it's still really ugly but check it out?
